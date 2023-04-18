@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Weekly Report and notes making app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Check it out:
+https://kirtanhadwani.github.io/Weekly-report-app/
 
 ## Available Scripts
 
