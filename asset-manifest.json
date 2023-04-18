@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Weekly-report-app/static/css/main.073c9b0a.css",
+    "main.js": "/Weekly-report-app/static/js/main.06cca7ef.js",
+    "static/js/787.b54e2508.chunk.js": "/Weekly-report-app/static/js/787.b54e2508.chunk.js",
+    "index.html": "/Weekly-report-app/index.html",
+    "main.073c9b0a.css.map": "/Weekly-report-app/static/css/main.073c9b0a.css.map",
+    "main.06cca7ef.js.map": "/Weekly-report-app/static/js/main.06cca7ef.js.map",
+    "787.b54e2508.chunk.js.map": "/Weekly-report-app/static/js/787.b54e2508.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.06cca7ef.js"
+  ]
+}
